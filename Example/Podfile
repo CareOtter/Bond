@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Bond_Tests' do
+  pod 'Bond', :path => '../'
+  
+  
+end
