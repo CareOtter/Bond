@@ -1,0 +1,19 @@
+{
+  "name": "Bond",
+  "version": "0.1.0",
+  "summary": "A short description of Bond.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/Bond",
+  "license": "MIT",
+  "authors": {
+    "Scott Mueller": "scott.mueller@careotter.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/Bond.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Bond/Classes/**/*"
+}

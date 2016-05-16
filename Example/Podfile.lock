@@ -1,0 +1,14 @@
+PODS:
+  - Bond (0.1.0)
+
+DEPENDENCIES:
+  - Bond (from `../`)
+
+EXTERNAL SOURCES:
+  Bond:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Bond: ac1420af748c59088b23ac9b7a30a4cb62e404cf
+
+COCOAPODS: 0.39.0
